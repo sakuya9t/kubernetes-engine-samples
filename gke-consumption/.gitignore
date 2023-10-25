@@ -1,0 +1,10 @@
+*~
+.*~
+vendor
+vendor/*
+go.sum
+BUILD
+*/BUILD
+*.db
+config/config.yml
+consumptionexp

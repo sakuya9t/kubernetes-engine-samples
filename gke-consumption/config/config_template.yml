@@ -1,0 +1,5 @@
+ProjectID: "" # Project ID to track
+BigQuery:
+  BillingProject: "" # Project ID that hosts the billing bigquery dataset
+  DataSetName: "" # Name of dataset
+  ConsumptionTableName: "" # Table that stores consumption table
