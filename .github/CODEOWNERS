@@ -16,3 +16,4 @@
 /databases/hello-app-cloud-spanner @thiagotnunes @yoshi-approver @GoogleCloudPlatform/dee-platform-ops
 /security/language-vulns @thompsonmax @yoshi-approver @GoogleCloudPlatform/dee-platform-ops
 /streaming/ @aburhan @yoshi-approver @GoogleCloudPlatform/dee-platform-ops
+/gke-consumption/ @sakuya9t @yoshi-approver @GoogleCloudPlatform/dee-platform-ops
